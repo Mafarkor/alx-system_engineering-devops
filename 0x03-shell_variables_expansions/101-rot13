@@ -1,2 +1,2 @@
 #1/bin/bash
-tr 'echo (a..z) | tr -d'"'echo (n..z)S/echo (a..m)| tr -d'"|tr' echo (S/echo (A..M)|tr -d'"
+tr 'A-Za-z' 'N-ZA-Mn-za-m'
